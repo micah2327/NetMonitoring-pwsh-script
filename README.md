@@ -4,7 +4,7 @@ This is a tool im thinking of employing, NetMonitor is a powershell script with 
 
 the only thing i had in mind when making this was security if i am in a small customer network and i have the ability to have constant tabs on when hosts are reachable/forwarding/stale i think it would somewhat of a usefull tool to employ temporarily.
 
-This should be placed on a wec collector internal to a siem
+This should be placed on a wec
 
 This works by first and foremost checking hosts every 60 seconds or whatever time interval you want to make it.
 
